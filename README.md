@@ -1,5 +1,5 @@
 # E-Com-Challenge
-
+Challenge: build backend for a ecommerce site.
 
 #links 
 
